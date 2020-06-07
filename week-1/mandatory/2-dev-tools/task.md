@@ -11,4 +11,10 @@ Answer the following questions:
 - What is the request path?
 - What is the first line of the response body?
 - What is the value of the response header called "Content-Type" ?
-  = What is the value of the request header called "User-Agent"
+- What is the value of the request header called "User-Agent"
+
+## Submission
+
+Share your answers with the other students in your Buddy Group or on your Slack class channel.
+
+Did you get different answers to other people? Ask them how they worked them out!
