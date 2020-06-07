@@ -1,23 +1,16 @@
 # Reading
 
-## Node.js
+## Read about HTTP messages
 
-Take a look at the following links to learn more about Node.js.
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#HTTP_Messages
 
-- Read: [The art of node](https://github.com/maxogden/art-of-node/#the-art-of-node)
-- Read: [Node Resources](https://node.cool#resources)
+## Express "Getting Started" Documentation:
 
-## HTTP
+Read these two pages from the Express "Getting Started" documentation:
 
-[Tutsplus tutorial](https://code.tutsplus.com/tutorials/http-headers-for-dummies--net-8039)
+- [Hello World](https://expressjs.com/en/starter/hello-world.html)
+- [Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
 
-## JSON
+If you want some more reading
 
-- https://en.wikipedia.org/wiki/JSON
-- https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
-
-## Heroku
-
-- [Deploying from Git](https://devcenter.heroku.com/articles/git)
-- [Deploying Node Apps](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
+- [Routing](https://expressjs.com/en/guide/routing.html)
