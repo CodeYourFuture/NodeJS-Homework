@@ -1,4 +1,4 @@
-# Quote Server API
+# Chat Server API 
 
 Talk a look at this repository:
 
