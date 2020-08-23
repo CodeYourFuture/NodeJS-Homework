@@ -14,3 +14,10 @@ We've hosted some Servers on Glitch but they're not quite working properly. Coul
 - [ ] Name your new server `yourname` + NAME_OF_EXERCISE
 - [ ] Check that it is working by making a request to `/`
 - [ ] Fix the code on your version of the server
+
+## sulotions
+
+- https://glitch.com/~sulaiman-practice1
+- https://glitch.com/~sulaiman-practice2
+- https://glitch.com/~sulaiman-practice3
+- https://glitch.com/~sulaiman-practice4
