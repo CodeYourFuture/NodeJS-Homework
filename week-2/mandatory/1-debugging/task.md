@@ -3,9 +3,13 @@
 We've hosted some Servers on Glitch but they're not quite working properly. Could you fix them for us?
 
 - https://glitch.com/~debugging-practice1
+  https://laetitia-link1.glitch.me/quotes
 - https://glitch.com/~debugging-practice2
+  https://laetitia-week2-link.glitch.me
 - https://glitch.com/~debugging-practice3
+  https://laetitia-week2-link3.glitch.me
 - https://glitch.com/~debugging-practice4
+  https://laetitiaweek2-link4.glitch.me
 
 ## Start by remixing our example server
 
