@@ -1,6 +1,6 @@
 # Quote Server API
 
-Talk a look at this repository:
+Take a look at this repository:
 
 [Quote Server](https://github.com/CodeYourFuture/node-challenge-quote-server)
 
