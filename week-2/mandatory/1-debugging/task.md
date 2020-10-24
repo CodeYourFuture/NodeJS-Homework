@@ -7,6 +7,12 @@ We've hosted some Servers on Glitch but they're not quite working properly. Coul
 - https://glitch.com/~debugging-practice3
 - https://glitch.com/~debugging-practice4
 
+#Solutions#
+-https://glitch.com/~shahd-practice1
+-https://glitch.com/~shahd-a-practic2
+-https://glitch.com/~practice-3-shahd3
+-https://glitch.com/~shahd4-practice4
+
 ## Start by remixing our example server
 
 - [ ] Make sure you're logged in to https://glitch.com/
