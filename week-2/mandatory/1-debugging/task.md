@@ -14,3 +14,13 @@ We've hosted some Servers on Glitch but they're not quite working properly. Coul
 - [ ] Name your new server `yourname` + NAME_OF_EXERCISE
 - [ ] Check that it is working by making a request to `/`
 - [ ] Fix the code on your version of the server
+
+// I fixed all of them , they are working nicely :)
+
+https://glitch.com/edit/#!/mursel-debugging-practice1
+
+https://glitch.com/edit/#!/mursel-debugging-practice2
+
+https://glitch.com/edit/#!/mursel-debugging-practice3
+
+https://glitch.com/edit/#!/mursel-debugging-practice4
