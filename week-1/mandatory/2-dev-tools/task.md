@@ -6,12 +6,12 @@ In Google Chrome, open dev tools network tab and enter this URL into the browser
 
 Answer the following questions:
 
-- What's the status code the server sent back?
-- What HTTP method did the browser use to make the request?
-- What is the request path?
-- What is the first line of the response body?
-- What is the value of the response header called "Content-Type" ?
-- What is the value of the request header called "User-Agent"
+- What's the status code the server sent back? 304
+- What HTTP method did the browser use to make the request? GET
+- What is the request path? shows/82/episodes
+- What is the first line of the response body? "id": 4952,
+- What is the value of the response header called "Content-Type" ? application/json; charset=UTF-8
+- What is the value of the request header called "User-Agent" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
 
 ## Submission
 
