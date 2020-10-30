@@ -3,9 +3,16 @@
 We've hosted some Servers on Glitch but they're not quite working properly. Could you fix them for us?
 
 - https://glitch.com/~debugging-practice1
+https://glitch.com/~patrickchan-debugging-practice1
+
 - https://glitch.com/~debugging-practice2
+https://glitch.com/~patrickchan-debugging-practice2
+
 - https://glitch.com/~debugging-practice3
+https://glitch.com/~patrickchan-debugging-practice3
+
 - https://glitch.com/~debugging-practice4
+https://glitch.com/~patrickchan-debugging-practice4
 
 ## Start by remixing our example server
 
